@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\scuola\tpsi\Visual\Ipv4\Ipv4\bin\Debug\Ipv4.exe.config
+C:\Users\Lenovo\Desktop\scuola\tpsi\Visual\Ipv4\Ipv4\bin\Debug\Ipv4.xml
+C:\Users\Lenovo\Desktop\scuola\tpsi\Visual\Ipv4\Ipv4\bin\Debug\Ipv4.exe
+C:\Users\Lenovo\Desktop\scuola\tpsi\Visual\Ipv4\Ipv4\bin\Debug\Ipv4.pdb
+C:\Users\Lenovo\Desktop\scuola\tpsi\Visual\Ipv4\Ipv4\obj\Debug\Ipv4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\scuola\tpsi\Visual\Ipv4\Ipv4\obj\Debug\Ipv4.exe
+C:\Users\Lenovo\Desktop\scuola\tpsi\Visual\Ipv4\Ipv4\obj\Debug\Ipv4.pdb

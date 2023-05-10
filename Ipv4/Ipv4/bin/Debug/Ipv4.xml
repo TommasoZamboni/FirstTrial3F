@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Ipv4</name>
+    </assembly>
+    <members>
+        <member name="T:Ipv4.IpCalculator">
+            <summary>
+            classe utilizzata per convertire 32 bit in un indirizzo ipv4 con la sua corrispettiva subnet
+            </summary>
+        </member>
+        <member name="M:Ipv4.IpCalculator.#ctor(System.String)">
+            <summary>
+            costruttore  
+            </summary>
+            <param name="binar">chiede in input i 32 bit</param>
+        </member>
+        <member name="M:Ipv4.IpCalculator.generateIPv4">
+            <summary>
+            Genera un indirizzo IPv4 a partire dai 32 bit impostati in fase di configurazione.
+            </summary>
+            <returns>L'indirizzo IPv4 generato come stringa nel formato "xxx.xxx.xxx.xxx".</returns>
+        </member>
+        <member name="M:Ipv4.IpCalculator.generateSubnet">
+            <summary>
+            Genera  l'indirizzo di subnet a partire dall'indirizzo ip inserito in precedenza.
+            </summary>
+            <returns>L'indirizzo di subnet generato come stringa nel formato "xxx.xxx.xxx.xxx".</returns>
+        </member>
+    </members>
+</doc>
